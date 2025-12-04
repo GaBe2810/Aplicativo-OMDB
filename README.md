@@ -1,16 +1,7 @@
 # omdb_aplicativo
+- **1** - [Protótipo](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/1-%E2%80%90-Prot%C3%B3tipo)
+- **2** - [API](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/2-%E2%80%90-API)
+- **3** - [Widgets](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/3-%E2%80%90-Widgets)
+- **4** - [Diagrama e Video](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/4-%E2%80%90-Diagrama-e-V%C3%ADdeo)
+- **5** - [Avaliação da Dupla](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/5-%E2%80%90-Avalia%C3%A7%C3%A3o-da-Dupla)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
