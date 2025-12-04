@@ -4,7 +4,7 @@
 >- Dupla: Gabriel Barbosa e Vitória Colussi
 >- Turma: 3°Mtec Desenvolvimento de Jogos Digitais.
 >- Escola: Etec Prof. Basilides de Godoy.
->- Sobre: Repositório para a documentação do aplicativo sobre filmes utilizand a API Open Movie Database (OMDb).
+>- Sobre: Repositório para a documentação do aplicativo sobre filmes utilizando a API Open Movie Database (OMDb).
 
 
 ## LINKS WIKI
@@ -13,3 +13,4 @@
 - **3** - [Widgets](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/3-%E2%80%90-Widgets)
 - **4** - [Vídeo](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/4-%E2%80%90-V%C3%ADdeo)
 - **5** - [Avaliação da Dupla](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/5-%E2%80%90-Avalia%C3%A7%C3%A3o-da-Dupla)
+
