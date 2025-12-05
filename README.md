@@ -8,9 +8,11 @@
 
 
 ## LINKS WIKI
-- **1** - [Protótipo](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/1-%E2%80%90-Prot%C3%B3tipo)
+- **1** - [Protótipo e Aplicativo](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/1-%E2%80%90-Prot%C3%B3tipo-e-Aplicativo)
 - **2** - [API](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/2-%E2%80%90-API)
 - **3** - [Widgets](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/3-%E2%80%90-Widgets)
-- **4** - [Vídeo](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/4-%E2%80%90-V%C3%ADdeo)
-- **5** - [Avaliação da Dupla](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/5-%E2%80%90-Avalia%C3%A7%C3%A3o-da-Dupla)
+- **4** - Scripts
+- **5** - [Vídeo](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/4-%E2%80%90-V%C3%ADdeo)
+- **6** - [Avaliação da Dupla](https://github.com/GaBe2810/Aplicativo-OMDB/wiki/5-%E2%80%90-Avalia%C3%A7%C3%A3o-da-Dupla)
+
 
